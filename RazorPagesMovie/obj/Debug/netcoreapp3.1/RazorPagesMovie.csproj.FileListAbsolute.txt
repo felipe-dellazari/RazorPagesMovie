@@ -9,7 +9,6 @@ C:\Users\Felipe\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreap
 C:\Users\Felipe\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp3.1\RazorPagesMovie.pdb
 C:\Users\Felipe\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp3.1\RazorPagesMovie.Views.dll
 C:\Users\Felipe\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp3.1\RazorPagesMovie.Views.pdb
-C:\Users\Felipe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.csprojAssemblyReference.cache
 C:\Users\Felipe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\staticwebassets\RazorPagesMovie.StaticWebAssets.Manifest.cache
 C:\Users\Felipe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\staticwebassets\RazorPagesMovie.StaticWebAssets.xml
 C:\Users\Felipe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.RazorAssemblyInfo.cache
